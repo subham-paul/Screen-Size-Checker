@@ -1,5 +1,5 @@
 # Screen-Size-Checker
-This responsive website create by ReactJS and TailwindCSS
+This responsive website create by ReactJS and TailwindCSS. Here you check you current screen size.
 
 ## Demo of the website
 
