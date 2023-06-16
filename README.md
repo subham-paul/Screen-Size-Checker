@@ -1,4 +1,5 @@
 # Screen-Size-Checker
+This responsive website create by ReactJS and TailwindCSS
 
 ## Demo of the website
 
